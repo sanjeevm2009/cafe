@@ -1,0 +1,8 @@
+{
+  "name": "MAISON CRUMB",
+  "description": "Luxury French artisan bakery celebrating a 110-year-old sourdough mother, Touraine terroir flours, online bakery creations, and Parisian breadmaking workshops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
